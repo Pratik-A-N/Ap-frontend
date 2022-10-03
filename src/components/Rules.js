@@ -12,13 +12,13 @@ export default function Rules() {
         <div className="row display-flex justify-content-center rulebg">
             <div className="col-lg-10">
                 <ul>
-                    <li>Any startup incorporated before 4 years of the conclusion of the competition i.e before January 2018 will not be allowed to participate.</li>
-                    <li>The plan should solve a critical social problem in an innovative as well as transformational manner and should have some quantifiable social return.</li>
-                    <li>There is no age restriction on any individual to participate. Anyone, from students to working professionals across the nation, can participate. </li>
-                    <li>Action Plan aims to promote startups that require assistance in funding, mentoring, etc. Therefore startups who have raised external funding i.e. funding from angel investors, venture capitalists, etc. cannot participate.</li>
-                    <li>Teams can have a minimum of 2 and a maximum of 8 members including the Team leader.</li>
-                    <li>The Team leader will be the point of contact and his/her email address will be used for future correspondence.</li>
-                    <li>The team must abide by timely instructions, guidelines and ethics provided by Abhyuday with general business ethics.</li>
+                    <li style={{fontSize:"2.5vh"}}>Any startup incorporated before 4 years of the conclusion of the competition i.e before January 2018 will not be allowed to participate.</li>
+                    <li style={{fontSize:"2.5vh"}}>The plan should solve a critical social problem in an innovative as well as transformational manner and should have some quantifiable social return.</li>
+                    <li style={{fontSize:"2.5vh"}}>There is no age restriction on any individual to participate. Anyone, from students to working professionals across the nation, can participate. </li>
+                    <li style={{fontSize:"2.5vh"}}>Action Plan aims to promote startups that require assistance in funding, mentoring, etc. Therefore startups who have raised external funding i.e. funding from angel investors, venture capitalists, etc. cannot participate.</li>
+                    <li style={{fontSize:"2.5vh"}}>Teams can have a maximum of 4 members including the Team leader.</li>
+                    <li style={{fontSize:"2.5vh"}}>The Team leader will be the point of contact and his/her email address will be used for future correspondence.</li>
+                    <li style={{fontSize:"2.5vh"}}>The team must abide by timely instructions, guidelines and ethics provided by Abhyuday with general business ethics.</li>
                 </ul>
             </div>
             
@@ -129,7 +129,7 @@ export default function Rules() {
             </div>
         </div>
         <div className="col py-5 px-5 note">
-            <i>Note: Teams may be asked to provide proof of the above at any time during the competition cycle and in the eventuality of wrong details/information your entry shall be disqualified. By registering for Action plan, Abhyuday expressly disclaims any obligation or undertaking to update or revise any forward-looking statements, targets, estimates or any related information contained in this concept note to reflect any change in events, conditions, assumptions or circumstances on which any such statements are based unless so required by applicable law. Furthermore, by participating in Action Plan, each participating team and all of its team members agree to allow Abhyuday, IIT Bombay to use their names, images and information regarding the team's action plan, any other material forwarded as part of their submission, and prize information in publicity and marketing for the same.</i>
+            <i style={{fontSize:"2vh;"}}>Note: Teams may be asked to provide proof of the above at any time during the competition cycle and in the eventuality of wrong details/information your entry shall be disqualified. By registering for Action plan, Abhyuday expressly disclaims any obligation or undertaking to update or revise any forward-looking statements, targets, estimates or any related information contained in this concept note to reflect any change in events, conditions, assumptions or circumstances on which any such statements are based unless so required by applicable law. Furthermore, by participating in Action Plan, each participating team and all of its team members agree to allow Abhyuday, IIT Bombay to use their names, images and information regarding the team's action plan, any other material forwarded as part of their submission, and prize information in publicity and marketing for the same.</i>
             </div>
         </div>
             </div>

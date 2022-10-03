@@ -14,7 +14,7 @@ export default function Structure() {
             <div className="col-lg-2 check">
                 <div className="circle">1</div>
                 <div className="event">AP Launch</div>
-                <div className="date">1st October</div>
+                <div className="date">3rd October</div>
                 <div className="line"></div>
                 <div className="triangle"></div>
             </div>
@@ -22,7 +22,7 @@ export default function Structure() {
             <div className="col-lg-2 check">
                 <div className="circle">3</div>
                 <div className="event">Registration Deadline</div>
-                <div className="date">1st November</div>
+                <div className="date">28th October</div>
                 <div className="line"></div>
                 <div className="triangle"></div>
             </div>
@@ -30,7 +30,7 @@ export default function Structure() {
             <div className="col-lg-2 check">
                 <div className="circle">5</div>
                 <div className="event">Round 1 Results</div>
-                <div className="date">12th November</div>
+                <div className="date">8th November</div>
                 <div className="line"></div>
                 <div className="triangle"></div>
             </div>
@@ -43,7 +43,7 @@ export default function Structure() {
                 <div className="line2"></div>
                 <div className="circle2">2</div>
                 <div className="event">Workshops</div>
-                <div className="date">1st October</div>
+                <div className="date">8th - 28th October</div>
 
             </div>
             <div className="col-lg-2 ">
@@ -54,7 +54,7 @@ export default function Structure() {
                 <div className="line2"></div>
                 <div className="circle2">4</div>
                 <div className="event">Playbook Submission Deadline</div>
-                <div className="date">7th November</div>
+                <div className="date">28th October</div>
 
             </div>
             <div className="col-lg-2 side">
@@ -67,7 +67,7 @@ export default function Structure() {
                 <div className="fist">
                 <div className="circle2">6</div>
                 <div className="event">Mentor Allocation</div>
-                <div className="date">14th November</div>
+                <div className="date">11th November</div>
                 </div>
 
             </div>
@@ -92,7 +92,7 @@ export default function Structure() {
             <div className="col-lg-2 down side2">
                 <div className="circle2">8</div>
                 <div className="event">Zonals Round 2 pitching</div>
-                <div className="date">7th - 10th December</div>
+                <div className="date">5th - 15th December</div>
                 <div className="line2"></div>
                 <div className="triangle2"></div>
             </div>
@@ -146,7 +146,7 @@ export default function Structure() {
                     <div className="fist">
                     <div className="circle">1</div>
                     <div className="event">AP Launch </div>
-                    <div className="date">1st October</div>
+                    <div className="date">3rd October</div>
 
                 </div>
                 </div>
@@ -161,7 +161,7 @@ export default function Structure() {
                     <div className="fist">
                     <div className="circle2">2</div>
                     <div className="event">Workshops </div>
-                    <div className="date">1st October</div>
+                    <div className="date">8th - 28th October</div>
 
                 </div>
                 </div>
@@ -176,7 +176,7 @@ export default function Structure() {
                     <div className="fist">
                     <div className="circle">3</div>
                     <div className="event">Registration Deadline</div>
-                    <div className="date">1st November</div>
+                    <div className="date">28th October</div>
 
                 </div>
                 </div>
@@ -191,7 +191,7 @@ export default function Structure() {
                     <div className="fist">
                     <div className="circle2">4</div>
                     <div className="event">Playbook Submission Deadline </div>
-                    <div className="date">7th November</div>
+                    <div className="date">28th October</div>
 
                 </div>
                 </div>
@@ -206,7 +206,7 @@ export default function Structure() {
                     <div className="fist">
                     <div className="circle">5</div>
                     <div className="event">Round 1 Results </div>
-                    <div className="date">12th November</div>
+                    <div className="date">8th November</div>
 
                 </div>
                 </div>
@@ -221,7 +221,7 @@ export default function Structure() {
                     <div className="fist">
                     <div className="circle2">6</div>
                     <div className="event">Mentor Allocation</div>
-                    <div className="date">14th November</div>
+                    <div className="date">11th November</div>
 
                 </div>
                 </div>
@@ -251,7 +251,7 @@ export default function Structure() {
                     <div className="fist">
                     <div className="circle2">8</div>
                     <div className="event">Zonals Round 2 pitching </div>
-                    <div className="date">7th - 10th December</div>
+                    <div className="date">5th - 15th December</div>
 
                 </div>
                 </div>

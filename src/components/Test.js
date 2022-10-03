@@ -14,6 +14,7 @@ export default function Test() {
     const [user, setUser] = useState({
         pk: 0,
         teamname: "",
+        phone: "",
         member1: "",
         email1:"",
         member2: "",
@@ -92,6 +93,17 @@ export default function Test() {
             name="teamname"
             onChange={(e) =>{onChange(e)}}
             value={user.teamname}
+            required
+          />
+        </FormGroup>
+        <FormGroup>
+          <Label for="member1">Phone Number:</Label>
+          <Input
+            type="phone"
+            name="phone"
+            
+            onChange={(e) =>{onChange(e)}}
+            value={user.phone}
             required
           />
         </FormGroup>

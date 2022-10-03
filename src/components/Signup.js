@@ -171,6 +171,85 @@ class Signup extends React.Component {
           />
         </FormGroup>
         <div className="extbt">
+            <div className="bt1" >
+                Add More Members
+            </div>
+        </div>
+        <div id="newmemb">
+        <FormGroup>
+          <Label for="member1">Member 4 Name:</Label>
+          <Input
+            type="text"
+            name="member4"
+            onChange={this.onChange}
+            value={this.defaultIfEmpty(this.state.name)}
+          />
+        </FormGroup>
+        <FormGroup>
+          <Label for="email">Member 4 Email:</Label>
+          <Input
+            type="email"
+            name="email4"
+            onChange={this.onChange}
+            value={this.defaultIfEmpty(this.state.email)}
+          />
+        </FormGroup>
+        <FormGroup>
+          <Label for="member1">Member 4 Name:</Label>
+          <Input
+            type="text"
+            name="member4"
+            onChange={this.onChange}
+            value={this.defaultIfEmpty(this.state.name)}
+          />
+        </FormGroup>
+        <FormGroup>
+          <Label for="email">Member 4 Email:</Label>
+          <Input
+            type="email"
+            name="email4"
+            onChange={this.onChange}
+            value={this.defaultIfEmpty(this.state.email)}
+          />
+        </FormGroup>
+        <FormGroup>
+          <Label for="member1">Member 4 Name:</Label>
+          <Input
+            type="text"
+            name="member4"
+            onChange={this.onChange}
+            value={this.defaultIfEmpty(this.state.name)}
+          />
+        </FormGroup>
+        <FormGroup>
+          <Label for="email">Member 4 Email:</Label>
+          <Input
+            type="email"
+            name="email4"
+            onChange={this.onChange}
+            value={this.defaultIfEmpty(this.state.email)}
+          />
+        </FormGroup>
+        <FormGroup>
+          <Label for="member1">Member 4 Name:</Label>
+          <Input
+            type="text"
+            name="member4"
+            onChange={this.onChange}
+            value={this.defaultIfEmpty(this.state.name)}
+          />
+        </FormGroup>
+        <FormGroup>
+          <Label for="email">Member 4 Email:</Label>
+          <Input
+            type="email"
+            name="email4"
+            onChange={this.onChange}
+            value={this.defaultIfEmpty(this.state.email)}
+          />
+        </FormGroup>
+        </div>
+        <div className="extbt">
         <Button className="bt1">Register</Button>
         <p>Already Registered ? <Link to="/login">Login</Link></p>
         </div>

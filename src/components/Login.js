@@ -7,7 +7,9 @@ import Footer from "./Footer";
 import { Link , useNavigate } from "react-router-dom";
 
 // import { API_URL } from "../constants";
-const API_URL = "http://localhost:8000/api/login";
+const API_URL = "https://cr.abhyudayiitb.org/api/login";
+// const API_URL = "http://localhost:8000/api/login";
+
 
 
 export default function Login() {
@@ -66,6 +68,7 @@ export default function Login() {
                   name="username"
                   onChange={(e) =>{onChange(e)}}
                   value={user.username}
+                  required
                 />
               </FormGroup>
               <FormGroup>
@@ -75,6 +78,7 @@ export default function Login() {
                   name="password"
                   onChange={(e) =>{onChange(e)}}
                   value={user.password}
+                  required
                 />
               </FormGroup>
               <div className="extbt">

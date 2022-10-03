@@ -21,7 +21,7 @@ import Session from './components/Session';
 class App extends Component {
 render() {
 	return (
-	<Router basename={'/aptest'}>
+	<Router basename={'/actionplan'}>
 		<div className="App">
 		<Routes>
 				<Route exact path='/' element={ <Home/> }></Route>
@@ -32,7 +32,7 @@ render() {
 				<Route exact path='/incentive' element={ <Incentive/> }></Route>
 				<Route exact path='/sponsor' element={ <Sponsor/> }></Route>
 				<Route exact path='/structure' element={ <Structure/> }></Route>
-				<Route exact path='/mentor/register' element={ <Mentorreg/> }></Route>
+				<Route exact path='/mentorreg' element={ <Mentorreg/> }></Route>
 				<Route exact path='/contact' element={ <Contact/> }></Route>
 				<Route exact path='/submitted' element={ <Submitted/> }></Route>
 				<Route exact path='/signup' element={ <Test/> }></Route>

@@ -13,44 +13,95 @@ export default function Sector() {
   return (
     <div className="fluid-container">
         <Navbar/>
-        <div className="row">
-          <div className="col-lg-2 bgt" id='one'>
-            <div className="child1">
+        <div className="row px-3 trackdesk">
+          <div className="col-lg-2  bgt" id='one'>
+            {/* <div className="child1">
              <img src={fo} alt="" srcset="" />
-            </div>
+            </div> */}
              
           </div>
           <div className="col-lg-2 bgt " id='two' >
-            <div className="child2">
+            {/* <div className="child2">
              <img src={fto} alt="" srcset="" />
-            </div>
+            </div> */}
 
           </div>
           <div className="col-lg-2 bgt" id='three'>
-            <div className="child3">
+            {/* <div className="child3">
              <img src={fth} alt="" srcset="" />
-            </div>
+            </div> */}
 
           </div>
           <div className="col-lg-2 bgt" id='four'>
-            <div className="child4">
+            {/* <div className="child4">
              <img src={ffo} alt="" srcset="" />
-            </div>
+            </div> */}
 
           </div>
           <div className="col-lg-2 bgt" id='five'>
-            <div className="child5">
+            {/* <div className="child5">
              <img src={ffi} alt="" srcset="" />
-            </div>
+            </div> */}
 
           </div>
           <div className="col-lg-2 bgt" id='six'>
-            <div className="child6">
+            {/* <div className="child6">
              <img src={fs} alt="" srcset="" />
-            </div>
+            </div> */}
 
           </div>
         </div>  
+
+        <div className="trackmob">
+          <div className="row display-flex justify-content-center xh">
+          <div className="col-sm-6  bgt" id='one'>
+            {/* <div className="child1">
+             <img src={fo} alt="" srcset="" />
+            </div> */}
+             
+          </div>
+          </div>
+          <div className="row display-flex justify-content-center xh">
+          <div className="col-sm-6  bgt" id='two'>
+            {/* <div className="child1">
+             <img src={fo} alt="" srcset="" />
+            </div> */}
+             
+          </div>
+          </div>
+          <div className="row display-flex justify-content-center xh">
+          <div className="col-sm-6  bgt" id='three'>
+            {/* <div className="child1">
+             <img src={fo} alt="" srcset="" />
+            </div> */}
+             
+          </div>
+          </div>
+          <div className="row display-flex justify-content-center xh">
+          <div className="col-sm-6  bgt" id='four'>
+            {/* <div className="child1">
+             <img src={fo} alt="" srcset="" />
+            </div> */}
+             
+          </div>
+          </div>
+          <div className="row display-flex justify-content-center xh">
+          <div className="col-sm-6  bgt" id='five'>
+            {/* <div className="child1">
+             <img src={fo} alt="" srcset="" />
+            </div> */}
+             
+          </div>
+          </div>
+          <div className="row display-flex justify-content-center xh">
+          <div className="col-sm-6  bgt" id='six'>
+            {/* <div className="child1">
+             <img src={fo} alt="" srcset="" />
+            </div> */}
+             
+          </div>
+          </div>
+        </div>
       <div className="out">
         <Footer/>
       </div>

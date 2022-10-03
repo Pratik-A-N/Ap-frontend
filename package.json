@@ -16,7 +16,7 @@
     "reactstrap": "^9.1.4",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "/aptest",
+  "homepage": "/actionplan",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

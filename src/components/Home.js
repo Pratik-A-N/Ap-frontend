@@ -61,7 +61,10 @@ export default function Home() {
             {/* <img src={Group} alt="" srcset="" id="group" / > */}
             <div className="row display-flex justify-content-center animated animatedFadeInUp fadeInUp">
                 <div className="col-10 d">
-                    We believe that young minds hold the key to solve numerous challenges that have plagued our society for so long. It’s the need of time to channelize this energy in the right direction which can definitely change the lives of people around us. Abhyuday 2021-22 brings to you, Action-Plan, the social entrepreneurship contest which revolves around the 3I’s mantra: Ideate - Innovate - Implement. In order to fulfil these dreams, Abhyuday IIT Bombay brings together the brightest from colleges, the best from corporate, the learnt from academia and the experienced from NGOs and creates a platform where young minds are nurtured to create solutions that have the potential to bring about grass root level changes.
+                Action Plan is Abhyuday, IIT Bombay’s Flagship Social Entrepreneurship Competition which fosters young minds of the nation to identify grass root level problems and design a sustainable business model for them. This nationwide competition takes participating teams through multiple stages, guiding them to develop a BMC and pitch in front of mentors and investors.
+                Since its launch in 2012, Action Plan has witnessed tremendous growth in previous years. Action Plan is set to be Asia’s largest growing social Entrepreneurship Competition. 
+
+                    
                 </div>
             </div> 
             <div className="row display-flex justify-content-center" id="nums">
@@ -103,25 +106,24 @@ export default function Home() {
               <div className="col-lg-3 back">
                 <div className='newlo'><img src={cash} alt="" srcset="" className='nelo'/></div>
                 <div className="new">Cash Prize</div>
-                <div className="discrip">Cash Prize of INR 3 lakhs for the winners of the competition Winners of each track - INR 0.5 lakh</div>
+                <div className="discrip">Incentives worth 20L+ for the top teams including a total cash prize of 3L for the winners of each tracks.</div>
               </div>
               <div className="col-lg-3 back">
                 <div className="newlo"><img src={metor} alt="" srcset="" className='nelo'/></div>
                 <div className="new">Mentorships</div>
-                <div className="discrip">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem laborum aperiam cumque, provident neque debitis in iure! Sequi, a eum.</div>
-
-              </div>
+                <div className="discrip">Being a participant of Action Plan, you will be allotted professional mentors who have mentored a lot of startups earlier and would help groom yours as well. </div>
+               </div>
             </div>
             <div className="row display-flex justify-content-center">
               <div className="col-lg-3 back">
               <div className='newlo'><img src={workshop} alt="" srcset="" className='nelo'/></div>
               <div className="new">Workshops</div>
-                <div className="discrip">A workshop is a path that introduces you to the experience of being an entrepreneur. Get an opportunity to be a part of exclusive and intresting workshops in both Round 1 and Round 2 by leading speakers of the field</div>
+                <div className="discrip">A workshop is a path that introduces you to the experience of being an entrepreneur. Get an opportunity to be a part of exclusive and interesting workshops in both Round 1 and Round 2 by leading speakers of the field.</div>
               </div>
               <div className="col-lg-3 back">
               <div className='newlo'><img src={network} alt="" srcset="" className='nelo'/></div>
               <div className="new">Networking Opportunities</div>
-              <div className="discrip">Get an opportunity to netwok with Action Plan's excelent partner base spread across Asia, Europe and North America</div>
+              <div className="discrip">Get an opportunity to netwok with Action Plan's excelent partner base spread across Asia, Europe and North America.</div>
               </div>
             </div>
             <div class="row display-flex justify-content-center under c g cbs">
